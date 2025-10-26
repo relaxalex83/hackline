@@ -1,6 +1,7 @@
 # hackline
 
 - AddKext - Скрипт добавления кекста в OpenCore с прописью в config.plist
+- apfs_aligned.efi - модуль для скрипта TPF
 - BDUtility - программа создания флешки с установщиком macOS в Windows
 - BTFix - скрипт добвляет ключи bluetoothInternalControllerInfo и bluetoothExternalDongleFailed в config.plist (OpenCore)
 - EN_HACKLINE - английская версия утилиты Hackline
@@ -20,4 +21,6 @@
 - nvidia-update - скрипт установки Nvidia Web Driver для утилиты HACKLINE Nvidia
 - SG USB Patcher - утилита автоматического добавления патча на лимит портов USB в Clover (не актуальна после 11.2.1)
 - Tools - полезные утилиты для работы с EFI
+- TPF - скрипт для fix'а пароля в Tahoe после включения FileVault 
 - USBPatcher - скрипт для утилиты SG USB Patcher
+- verbose - скрипт включения/выключения verbose в config.plist 
